@@ -5,4 +5,4 @@
 - [ ] write down who rules
 
 ## TODO jo:
-- [ ] prepare hello world script
+- [ ] prepare hello world script.
